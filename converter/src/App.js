@@ -105,14 +105,3 @@ function App() {
 }
 
 export default App;
-
-/* unit converter <= ex 분단위를 넣으면 시간단위로 값 출력
-단위 변환 앱 unit conversion
-
-for, class은 자바스크립트 용어 => 사용불가 htmlFor, className 사용
-e.target.value => input 받을 때 value에 사용자가 입력한 값이 저장되어 있음
-
-html select함수 => option value값에 0부터 순서대로 삽입(선택지)
-
-자바스크립트 if를 사용하고 싶다면 중괄호{} 사용
-*/
